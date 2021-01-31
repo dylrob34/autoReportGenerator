@@ -1,0 +1,16 @@
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\autoReportGenerator.exe
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\autoReportGenerator.deps.json
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\autoReportGenerator.runtimeconfig.json
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\autoReportGenerator.runtimeconfig.dev.json
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\autoReportGenerator.dll
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\autoReportGenerator.pdb
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.csprojAssemblyReference.cache
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.csproj.ResolveComReference.cache
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.AssemblyInfoInputs.cache
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.AssemblyInfo.cs
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.csproj.CoreCompileInputs.cache
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.dll
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.pdb
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.genruntimeconfig.cache
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
