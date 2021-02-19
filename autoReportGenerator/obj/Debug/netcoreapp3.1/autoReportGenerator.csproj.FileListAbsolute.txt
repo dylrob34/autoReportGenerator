@@ -14,3 +14,5 @@ D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoRe
 D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\autoReportGenerator.genruntimeconfig.cache
 D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
 D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+D:\dev\c#\autoReportGenerator\autoReportGenerator\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+D:\dev\c#\autoReportGenerator\autoReportGenerator\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll

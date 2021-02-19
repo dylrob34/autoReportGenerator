@@ -18,7 +18,7 @@ namespace autoReportGenerator
             doc.Content.Text += "Hello World!";
 
             //save
-            doc.SaveAs2("test.docx");
+            doc.SaveAs2("D:\\dev\\c#\\autoReportGenerator\\test.docx");
 
             //close and quit
             doc.Close();
